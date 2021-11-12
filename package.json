@@ -1,0 +1,28 @@
+{
+  "name": "node-imgcropper",
+  "version": "1.0.0",
+  "description": "It is a node image cropper, that selects random image from server and you can save notes with every cropped image.",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamzaatalif/Node-Image-Cropper.git"
+  },
+  "keywords": [
+    "node",
+    "image-cropper",
+    "crop",
+    "save-notes"
+  ],
+  "author": "Hamza Imranist (https://imranist.me)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamzaatalif/Node-Image-Cropper/issues"
+  },
+  "homepage": "https://github.com/hamzaatalif/Node-Image-Cropper#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
